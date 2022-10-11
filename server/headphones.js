@@ -1,0 +1,46 @@
+export default [
+  {
+    id: 1,
+    img: "/img/S852.png",
+    title: "Apple BYZ S852I",
+    price: 2927,
+    oldPrice: 3490,
+    rate: 4.7,
+  },
+  {
+    id: 2,
+    img: "/img/earpods1.png",
+    title: "Apple EarPods",
+    price: 2327,
+    rate: 4.4,
+  },
+  {
+    id: 3,
+    img: "/img/earpods2.png",
+    title: "Apple EarPods",
+    price: 2927,
+    rate: 4.6,
+  },
+  {
+    id: 4,
+    img: "/img/S8521.png",
+    title: "Apple BYZ S852I",
+    price: 2927,
+    oldPrice: 3490,
+    rate: 4.7,
+  },
+  {
+    id: 5,
+    img: "/img/earpods1.png",
+    title: "Apple EarPods",
+    price: 2327,
+    rate: 4.4,
+  },
+  {
+    id: 6,
+    img: "/img/earpods2.png",
+    title: "Apple EarPods",
+    price: 2927,
+    rate: 4.6,
+  },
+];
